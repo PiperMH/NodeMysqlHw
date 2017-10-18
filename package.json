@@ -1,0 +1,22 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "mysql hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiperMH/NodeMysqlHw.git"
+  },
+  "author": "piper hayden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiperMH/NodeMysqlHw/issues"
+  },
+  "homepage": "https://github.com/PiperMH/NodeMysqlHw#readme",
+  "dependencies": {
+    "console.table": "^0.9.1"
+  }
+}
